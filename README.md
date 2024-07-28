@@ -1,1 +1,1 @@
-# smart_parking
+# AI based smart_parking
